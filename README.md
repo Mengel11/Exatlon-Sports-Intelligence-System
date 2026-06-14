@@ -16,10 +16,12 @@ Para solucionar esto, se implementó un flujo ETL robusto utilizando **Power Que
 Este tablero está diseñado para medir la efectividad individual.
 * **Valor de Negocio:** Permite filtrar el rendimiento de cada atleta por semana. Esta métrica es crucial para proyectar qué competidores están estadísticamente en riesgo de ir al duelo de eliminación dominical, dependiendo de los resultados en las series de supervivencia.
 
-![Captura del Tablero Porcentaje de Victorias](ruta_a_tu_imagen_victorias.png)
+![Captura del Tablero Porcentaje de Victorias](<img width="617" height="355" alt="image" src="https://github.com/user-attachments/assets/97f16cbb-e3e7-4b16-8d3a-16925586acc9" />
+)
 
 ### 2. Tablero: Evolución del Marcador ⏱️
 Una herramienta visual para el *Data Storytelling* de las competencias grupales.
 * **Valor de Negocio:** Visualiza la evolución punto a punto del marcador en los juegos de equipo. Ofrece una forma atractiva e inmediata de recordar la narrativa del juego: permite identificar rápidamente si un equipo dominó por completo el circuito, si hubo remontadas históricas o si fue un enfrentamiento sumamente reñido.
 
-![Captura del Tablero Marcador](ruta_a_tu_imagen_marcador.png)
+![Captura del Tablero Marcador](<img width="619" height="355" alt="image" src="https://github.com/user-attachments/assets/e1e4c484-8f7f-4032-98dd-6808808d7828" />
+)
